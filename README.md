@@ -1,4 +1,5 @@
 # PYTHON2_Team2
+This week we studied advanced Python which was given to us as follows:
 ##  Else After For
 The else function after for is prioritized in search loops to provide a program exit.So, else after for is used to check whether the search or iteration was successful or not. This is a useful concept when you want to perform an action if the element you are looking for is not found in the loop.
 
